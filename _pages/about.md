@@ -11,6 +11,6 @@ I am a PhD candidate in Applied Mathematics and Statistics at Johns Hopkins Univ
 
 Research Interests
 ======
-Broadly I work on designing and analyzing algorithms for solving optimization problems on continuous domains. I am particularly interested in algorithms that can be applied to large scale, non-smooth problems.
+Broadly, I work on designing and analyzing algorithms for solving optimization problems on continuous domains. I am particularly interested in algorithms that can be applied to large scale, non-smooth problems.
 
 I am also interested in designing and analyzing algorithms for solving data science problems, with a particular interest in Bayesian methods and uncertainty quantification.
