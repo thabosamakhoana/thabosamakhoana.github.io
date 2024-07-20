@@ -5,6 +5,7 @@ permalink: /publication/2024-04-29-scalable-multiradial-methods
 excerpt: 'This paper presents the multiradial method for solving constrained convex optimization problems. This method assumes minimal structure on the objective function and does not rely on projections to the feasible region.'
 date: 2024-04-29
 paperurl: 'https://arxiv.org/abs/2403.13688'
+venue: ArXiv Preprint
 citation: 'Thabo Samakhoana, Benjamin Grimmer. (2024). &quot;Scalable Projection-Free Optimization Methods via MultiRadial Duality Theory.&quot; <i>ArXiv </i>.'
 ---
 
