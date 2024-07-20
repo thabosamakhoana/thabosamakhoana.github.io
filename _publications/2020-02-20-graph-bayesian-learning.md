@@ -2,7 +2,7 @@
 title: "On the consistency of graph-based Bayesian semi-supervised learning and the scalability of sampling algorithms"
 collection: publications
 permalink: /publication/2020-02-20-graph-bayesian-learning
-excerpt: 'This presents interesting theoretical properties of a Bayesian approach to semi-supervised learning on graphs.'
+excerpt: 'This paper presents interesting theoretical properties of a Bayesian approach to semi-supervised learning on graphs.'
 date: 2020-02-20
 venue: 'Journal of Machine Learning Research'
 citation: 'Nicolas Garcia Trillos, Zachary Kaplan, Thabo Samakhoana, Daniel Sanz-Alonso. (2020). &quot;On the consistency of graph-based Bayesian semi-supervised learning and the scalability of sampling algorithms.&quot; <i>Journal of Machine Learning Research</i>. 21(28).'
