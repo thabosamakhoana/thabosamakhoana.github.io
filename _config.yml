@@ -21,7 +21,7 @@ repository               : "thabosamakhoana/thabosamakhoana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "webs_pic.jpg"
   name             : "Thabo Samakhoana"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Applied Mathematics and Statistics"
