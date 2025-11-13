@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Mathematics and Statistics at Johns Hopkins University. I am fortunate to be advised by Professor [Benjamin Grimmer](https://www.ams.jhu.edu/~grimmer/). Before Johns Hopkins, I obtained my Bachelor of Science in Applied Mathematics from Brown University.
+I am a PhD candidate in Applied Mathematics and Statistics at Johns Hopkins University, advised by Professor [Benjamin Grimmer](https://www.ams.jhu.edu/~grimmer/). Before Johns Hopkins, I obtained my Bachelor of Science in Applied Mathematics from Brown University. In between undergrad and PhD, I worked as a Research Assistant to Professor [Nicole Maestas](https://hcp.hms.harvard.edu/people/nicole-maestas) in the Health Care Policy Department of Harvard Medical School.
 
 I am on the job market and will graduate Spring 2026.
 
