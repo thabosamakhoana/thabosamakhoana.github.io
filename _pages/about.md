@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Mathematics and Statistics at Johns Hopkins University, advised by Professor [Benjamin Grimmer](https://www.ams.jhu.edu/~grimmer/). Before Johns Hopkins, I obtained my Bachelor of Science in Applied Mathematics from Brown University. In between undergrad and PhD, I worked as a Research Assistant to Professor [Nicole Maestas](https://hcp.hms.harvard.edu/people/nicole-maestas) in the Health Care Policy Department of Harvard Medical School.
+I am a PhD candidate in Applied Mathematics and Statistics at Johns Hopkins University.  
+I design and analyze optimization algorithms. I am fortunate to be advised by [Benjamin Grimmer](https://www.ams.jhu.edu/~grimmer/). 
 
-I am on the job market and will graduate Spring 2026.
+ Before starting my PhD, I was a Research Assistant in economics to [Nicole Maestas](https://hcp.hms.harvard.edu/people/nicole-maestas) at Harvard.  
+ I hold a Bachelor of Science in Applied Mathematics from Brown University.
 
-Research Interests
+I am on the job market and will graduate in Spring 2026.
+
+Research
 ======
-Broadly, I work on designing and analyzing algorithms for solving optimization problems on continuous domains. I am particularly interested in algorithms that can be applied to large scale, non-smooth problems.
+I work on designing and analyzing algorithms for solving optimization problems on continuous domains. My work focuses on algorithms that can be applied to large scale, non-smooth problems.
 
 I am also interested in designing and analyzing algorithms for solving data science problems.
