@@ -1,7 +1,7 @@
 ---
 title: "An Elementary Proof of the Near Optimality of LogSumExp Smoothing"
 collection: publications
-permalink: /publication/2025-08-21-the-optimal-smoothings-of-sublinear-functions-and-convex-cones
+permalink: /publication/2025-12-11-elementary-proof-of-logsumexp-near-optimality
 excerpt: 'The paper proves a sharp limitation on smoothing the max-of-coordinates function in $$ d $$ dimensions. Any convex surrogate with the desired smoothness must incur a worst-case error that grows like $$ \log d $$, so the standard LogSumExp smoothing is essentially optimal up to constants. This result is proved using elementary inequalities about smooth, convex functions. The paper also proves that in small dimensions ($$d = 2, 3 $$) LogSumExp fails to be optimal.'
 date: 2025-08-21
 paperurl: 'https://arxiv.org/abs/2512.10825v1'
